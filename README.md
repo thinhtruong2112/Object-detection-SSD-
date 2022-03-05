@@ -1,4 +1,11 @@
 # Object-detection-SSD
+# Member
+<ul>
+  <li>Nguyen Tho Nam</li>
+  <li>Ngo Phuc Thanh</li>
+  <li>Pham Ngoc Hau</li>
+  <li>Truong Gia Thinh</li>
+</ul>
 # Prepare 
 mkdir -p data/weights
 wget https://s3.amazonaws.com/amdegroot-models/vgg16_reducedfc.pth
